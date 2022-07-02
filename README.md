@@ -7,7 +7,7 @@ This repo provides the **Data availability**, **Source code**, **Website** for o
 
 The published paper can be viewed and cited:
 
-> Zhang, F., Wei, K., Slowikowski, K., Fonseka, C.Y., Rao, D.A., et al, 2018. Defining Inflammatory Cell States in Rheumatoid Arthritis Joint Synovial Tissues by Integrating Single-cell Transcriptomics and Mass Cytometry. [Nature Immunology](https://www.nature.com/articles/s41590-019-0378-1), 2019.
+> Zhang, F., Wei, K., Slowikowski, K., Fonseka, C.Y., Rao, D.A., et al, 2019. Defining Inflammatory Cell States in Rheumatoid Arthritis Joint Synovial Tissues by Integrating Single-cell Transcriptomics and Mass Cytometry. [Nature Immunology](https://www.nature.com/articles/s41590-019-0378-1), 2019.
 
 
 ## Data availibility
